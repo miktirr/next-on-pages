@@ -1,5 +1,18 @@
 # eslint-plugin-next-on-pages
 
+## 1.8.3
+
+### Patch Changes
+
+- 72426c2: update `no-unsupported-configs` with new configs options
+
+  in the `no-unsupported-configs` rule handle the following new options:
+
+  - logging
+  - optimizePackageImports
+  - ppr (Partial Prerendering)
+  - serverActions
+
 ## 1.8.2
 
 ## 1.8.1
